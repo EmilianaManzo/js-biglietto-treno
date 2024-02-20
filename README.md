@@ -11,6 +11,7 @@ L’output del prezzo finale va messo fuori in forma umana (con massimo due deci
 1. prompt chilometri da percorrere da inserire in una variabile 
 2. prompt età passeggero
 3. inserisco una variabile che indica il prezzo del biglietto al km
-4. creo delle variabili del prezzo al km meno la percentuale di sconto 
-5. creo delle condizionali 
-6. stampo il risultato in pagina
+4. calcolo il prezzo totale del biglietto
+5. creo delle variabili del prezzo al km meno la percentuale di sconto 
+6. creo delle condizionali 
+7. stampo il risultato in pagina
